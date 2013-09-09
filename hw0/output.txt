@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: huan
+   last: kang
+email: hk1642@nyu.edu
+leaderboard: kanghuan724
