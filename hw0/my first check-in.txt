@@ -1,5 +1,0 @@
-name:
-   first: huan
-   last: kang
-email: hk1642@nyu.edu
-leaderboard: kanghuan724
