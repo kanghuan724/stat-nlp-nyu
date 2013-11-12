@@ -780,8 +780,6 @@
 (TOP (NP (PRP It)) (VP (VP (VBD was) (NP (DT the) (JJ young) (NNP Texan) (POS 's)) (S (NP (NN job)) (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (WHNP (WP what)) (S (NP (DT each) (NN county) (NN leader)) (VP (VBN needed) (PP (IN in) (NP (DT the) (NN way))) (PP (IN of) (NP (NN campaign) (NNS supplies)))))))))) (CC and) (VP (VB get) (NP (DT those) (NNS supplies)) (PP (IN to) (NP (PRP them))))) (. .))
 (TOP (WHADVP (WRB Groom)) (SQ (VBZ says) (NP (DT this) (NN job)) (VP (VBD helped) (S (NP (NNP Mr.) (NNP Bush)) (VP (VBP understand) (SBAR (WHADVP (WRB how) (RB even)) (S (PP (IN in) (NP (DT a) (NML (NNP statewide) (NNP Senate)) (NN campaign))) (, ,) (NP (NNS politics)) (VP (VBP are) (ADJP (JJ local))))))))) (. .))
 (TOP S)
-
-(TOP S)
 (TOP (NP (NNP Archibald)) (VP (VBZ says) (SBAR (WHNP (WDT that)) (S (PP (IN in) (NP (NP (DT a) (NN campaign)) (PP (JJ full) (IN of) (NP (JJ dedicated) (NNS workers))))) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD was) (NP (QP (RB not) (CD one))) (PP (IN of) (NP (PRP them))))))) (. .))
 (TOP (NP (NNP Mr.) (NNP MURPH) (NNP ARCHIBALD)) (-LRB- -LRB-) (VP (VBN Nephew) (PP (IN of) (NP (NNP Red) (NNP Blount)))) (-RRB- -RRB-) (: :) (S (INTJ (UH Well)) (, ,) (NP (PRP I)) (VP (VBD was) (VP (VP (VBG coming) (PP (IN in) (ADJP (JJ early) (PP (IN in) (NP (DT the) (NN morning)))))) (CC and) (VP (VBG leaving) (PP (IN in) (NP (NNP mid-evenings))))))) (. .))
 (TOP (S (ADVP (RB Ordinarily)) (, ,) (NP (NNP George)) (VP (MD would) (VP (VB come) (PRT (RP in)) (PP (IN around) (NP (NN noon)))))) (: ;) (S (NP (PRP he)) (VP (MD would) (RB ordinarily) (VP (VB leave) (ADJP (RB around) (JJ 5:30) (CC or) (JJ 6:00)) (PP (IN in) (NP (DT the) (NN evening)))))) (. .))
@@ -1015,3 +1013,4 @@
 (TOP (INTJ (UH Malach)) (, ,) (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP say) (VP (VBZ makes) (NP (NN sense)))) (. .))))
 (TOP (NNP Acquiring) (NP (JJ open) (NN source) (NN talent)) (VP (VP (VBZ gives) (NP (DT a) (NN company)) (NP (DT an) (JJ inexpensive) (NN way)) (PP (IN of) (NP (NNP influencing)))) (CC and) (VP (VBG anticipating) (NP (DT the) (NN direction)) (S (NP (DT an) (JJ open) (NN source) (NN project)) (VP (MD will) (VP (VB go))) (. .)))))
 (TOP (NP (PRP It)) (ADVP (RB probably)) (VP (VBZ gives) (NP (JJR more) (NN bang)) (PP (IN for) (NP (DT the) (NN buck))) (SBAR (IN than) (S (VP (VP (VBG acquiring) (NP (DT a) (JJ private) (NN company))) (CC and) (VP (VBG having) (VP (TO to) (VP (VB handle) (NP (NP (DT the) (JJ inevitable) (NN culture) (NNS clashes)) (CC and) (NP (NN process) (NNS mis-matches)))))))))) (. .))
+  
