@@ -1012,5 +1012,4 @@
 (TOP (UH Thanks) (PP (IN for) (NP (DT the) (NN link))) (. .))
 (TOP (INTJ (UH Malach)) (, ,) (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP say) (VP (VBZ makes) (NP (NN sense)))) (. .))))
 (TOP (NNP Acquiring) (NP (JJ open) (NN source) (NN talent)) (VP (VP (VBZ gives) (NP (DT a) (NN company)) (NP (DT an) (JJ inexpensive) (NN way)) (PP (IN of) (NP (NNP influencing)))) (CC and) (VP (VBG anticipating) (NP (DT the) (NN direction)) (S (NP (DT an) (JJ open) (NN source) (NN project)) (VP (MD will) (VP (VB go))) (. .)))))
-(TOP (NP (PRP It)) (ADVP (RB probably)) (VP (VBZ gives) (NP (JJR more) (NN bang)) (PP (IN for) (NP (DT the) (NN buck))) (SBAR (IN than) (S (VP (VP (VBG acquiring) (NP (DT a) (JJ private) (NN company))) (CC and) (VP (VBG having) (VP (TO to) (VP (VB handle) (NP (NP (DT the) (JJ inevitable) (NN culture) (NNS clashes)) (CC and) (NP (NN process) (NNS mis-matches)))))))))) (. .))
-  
+(TOP (NP (PRP It)) (ADVP (RB probably)) (VP (VBZ gives) (NP (JJR more) (NN bang)) (PP (IN for) (NP (DT the) (NN buck))) (SBAR (IN than) (S (VP (VP (VBG acquiring) (NP (DT a) (JJ private) (NN company))) (CC and) (VP (VBG having) (VP (TO to) (VP (VB handle) (NP (NP (DT the) (JJ inevitable) (NN culture) (NNS clashes)) (CC and) (NP (NN process) (NNS mis-matches)))))))))) 
